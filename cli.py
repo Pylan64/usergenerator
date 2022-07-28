@@ -1,9 +1,9 @@
 import random
 
 a = random.randint(0,2048)
-b_list = ['parabola', 'equation', 'eagle', 'bird', 'girl', 'boy', 'blacksmith', 'miner', 'chest', 'computer', 'pass', 'fox', 'goat', 'pillow', 'man', 'python']
+b_list = ['parabola', 'equation', 'eagle', 'bird', 'girl', 'boy', 'blacksmith', 'miner', 'chest', 'computer', 'pass', 'fox', 'goat', 'pillow', 'man', 'python', 'bear', 'fox', 'lad', 'pianist', 'violin', 'bass', 'cello', 'viola', 'guitar', 'captain']
 c_list = ['sleepy', 'furry', 'big', 'nerdy', 'tiny', 'stupid', 'english', 'french', 'deadly', 'violent', 'musical',
-         'whimsical', 'scaly', 'yellow', 'maroon', 'feminine']
+         'whimsical', 'scaly', 'yellow', 'maroon', 'feminine', 'dead', 'cruel', 'kingly', 'queenly', 'murderous', 'gardner', 'major', 'captain']
 r = random.randint(0, 15)
 d = c_list[r]
 x = b_list[r]
